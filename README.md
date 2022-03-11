@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola! Bienvenid@ a mi perfil 👋
+
+Me llamo Erika Natalia y soy colombiana
+
+🌱 Me gusta el desarrollo porque con esto he logrado crear soluciones que han facilitado un poco más la vida de alguien.
+
+<!-- [![logo-Centro.png](https://i.postimg.cc/QN0Cqx4M/logo-Centro.png)](https://postimg.cc/yW371Bzq) -->
 
 <!--
 **ErikaNatalia/ErikaNatalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
